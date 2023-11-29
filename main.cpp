@@ -1,5 +1,10 @@
 // C++ program to implement the Hospital 
 // Management System 
+<<<<<<< HEAD
+=======
+// 1 version
+// 2 version
+>>>>>>> bca979e74abe6b298b5fadb0da5786e537537d68
 //#include <bits/stdc++.h> 
 #include<iostream>
 #include<string>
